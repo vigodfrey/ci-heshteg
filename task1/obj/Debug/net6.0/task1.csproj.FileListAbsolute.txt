@@ -1,0 +1,15 @@
+D:\ci heshteg\task1\bin\Debug\net6.0\task1.exe
+D:\ci heshteg\task1\bin\Debug\net6.0\task1.deps.json
+D:\ci heshteg\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+D:\ci heshteg\task1\bin\Debug\net6.0\task1.dll
+D:\ci heshteg\task1\bin\Debug\net6.0\task1.pdb
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.dll
+D:\ci heshteg\task1\obj\Debug\net6.0\refint\task1.dll
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.pdb
+D:\ci heshteg\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+D:\ci heshteg\task1\obj\Debug\net6.0\ref\task1.dll
